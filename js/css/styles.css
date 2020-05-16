@@ -1,0 +1,67 @@
+body {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+#menu {
+  background-color: black;
+  width: 100%;
+  height: 80px;
+}
+
+.imagen1 {
+  margin: 5px;
+  height: auto;
+  width: 90px;
+}
+
+#foto {
+  background-color: black;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.imagen2 {
+  width: 200px;
+  height: 200px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#foto2 {
+  background-color: black;
+}
+
+#foto3 {
+  background-color: white;
+}
+
+#foto4 {
+  background-color: black;
+}
+
+#parrafoblanco {
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+#inicio {
+  height: 500px;
+  width: 550px;
+  margin: 200px 400px;
+  z-index: 999;
+  position: fixed;
+}
+
+#registro {
+  background: black;
+  padding: 10px;
+}
